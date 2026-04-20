@@ -1,0 +1,6 @@
+@OutboxDemo_HostAddress = http://localhost:5014
+
+POST {{OutboxDemo_HostAddress}}/orders?productName=Motorbike
+
+
+###
